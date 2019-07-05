@@ -5,6 +5,7 @@ package:
 build:
   string: anacondar_1
   number: 1
+  noarch: generic
 
 test:
   commands:
