@@ -1,10 +1,10 @@
 package:
   name: _r-mutex
-  version: 1.0.0
+  version: 1.0.1
 
 build:
   string: anacondar_1
-  number: 2
+  number: 1
   noarch: generic
 
 test:
